@@ -21,7 +21,9 @@ Check below the full list of projects I built. Each one was developed hands-on w
 ## Certifications
  
 <p align="center">
+ <a href="https://www.credly.com/badges/bb4a03fd-9c69-432b-9a42-bd7599f2758e/public_url">
 <img height="200" alt="comptia-project-ce-certification" src="https://github.com/user-attachments/assets/19a59df1-11c5-4bb6-976a-2bf45211d2ff" />
+  </a>
    &nbsp;&nbsp;
  <img height="800" alt="AI PM Certificate" src="https://github.com/user-attachments/assets/351d6490-03cb-4ea5-a454-728efdfcd7d2" />
   &nbsp;&nbsp;
