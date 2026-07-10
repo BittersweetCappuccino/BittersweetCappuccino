@@ -11,6 +11,8 @@ Check below the full list of projects I built. Each one was developed hands-on w
 
 **🚜 [Fieldbook](https://github.com/BittersweetCappuccino/fieldbook)** — A product concept exploring the operational core of an equipment dealership: service, parts, rentals, sales, and manufacturer integrations in one system. Includes a working dashboard mockup and a case study pressure-tested against a real OEM developer API.
 
+**:clipboard: [Estoppel](https://github.com/BittersweetCappuccino/estoppel)** — A prior-authorization exception & evidence console for Medicare Advantage — concept prototype.
+
 **:books: [Bookshop](https://github.com/BittersweetCappuccino/bookshop)** — An exploration of Claude Code's ability to design and implement a complete game in Python — from concept art to a playable build.
 
 **🗃️ [DevStash](https://github.com/BittersweetCappuccino/devstash)** — A developer knowledge hub for snippets, commands, prompts, notes, files, images, links, and custom types. Full-stack build with authentication, database schema design, and a freemium model in mind.
