@@ -5,7 +5,7 @@ I'm a Senior Product Manager whose background also spans full-stack development,
 🌍 Bilingual: English / Romanian
 
 
-## Projects
+## Projects Built with Claude Code
 
 **[Fieldbook](https://github.com/BittersweetCappuccino/fieldbook)** — A product concept exploring the operational core of an equipment dealership: service, parts, rentals, sales, and manufacturer integrations in one system. Includes a working dashboard mockup and a case study pressure-tested against a real OEM developer API.
 
